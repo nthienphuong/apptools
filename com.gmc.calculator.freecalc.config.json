@@ -4,7 +4,7 @@
     "key": "C532EA7009F7D165F968A282F4607E27B59BD13A1102A5E75E09AA6FC9097DB1",
     "topic":"global",
     "time_skip": 28800000,
-    "time_repeat": 300000,
+    "time_repeat": 600000,
     "time_ad_seperator": 150000,
     "time_ad_live":10000,
     "notification_time_skip": 43200000,
