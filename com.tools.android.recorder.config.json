@@ -9,8 +9,8 @@
     "time_ad_live":10000,
     "notification_time_skip": 43200000,
     "ad_clock":"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
-    "ad_networks":"admob_tmp,admob_tmp",
-    "ad_sequence":"admob_tmp,admob_tmp,admob_tmp,admob_tmp,admob_tmp,admob_tmp,admob_tmp,admob_tmp,admob_tmp,admob_tmp",
+    "ad_networks":"fan,fan",
+    "ad_sequence":"fan,fan,fan,fan,fan,fan,fan,fan,fan,fan",
     "deny_country": "",
     "admob":{
         "app_id":{"flag":true, "value":"85D9702AE86AB158017FFE2FFBFB77CAA654A74775D32D48609867D656999E6220EB624C40E3A7E29FA726122F1C6F36"},
@@ -21,7 +21,7 @@
     },
     "fan":{
         "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":"70B4687DB49C23AF49DCC5699DF0F6269C44CCDF52DCF717DDB228CFAC563108"},
+        "inters":{"flag":true, "value":"70B4687DB49C23AF49DCC5699DF0F62683FD1077304B2977C8317F48DDB15CB2"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
