@@ -9,8 +9,8 @@
     "time_ad_live":10000,
     "notification_time_skip": 43200000,
     "ad_clock":"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
-    "ad_networks":"fan,fan",
-    "ad_sequence":"fan,fan,fan,fan,fan,fan,fan,fan,fan,fan",
+    "ad_networks":"faan,faan",
+    "ad_sequence":"faan,faan,faan,faan,faan,faan,faan,faan,faan,faan",
     "deny_country": "",
     "admob":{
         "app_id":{"flag":true, "value":"85D9702AE86AB158017FFE2FFBFB77CA3C7232067422ADB55CF2BB75D89473CA036542BCFACA9381F962459BA23470F4"},
